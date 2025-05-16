@@ -49,4 +49,4 @@
 > Clone the repo and open the `.uproject` in Unreal Engine
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/geek-o-wars.git
+git clone https://github.com/KarthikVeeranala/geek-o-wars.git
